@@ -9,7 +9,7 @@
 
 3. The folder multilabel-classification contains the code to extract top N concepts(conceptIDs), create a new sub-dataset using only these top N conceptIDs to be used for training.
 
-4.The folder multilabel-classification also contains the code to train modified DenseNet121 (with an extra hidden units in classification layers) and code to inference on test images(generate conceptID for a test image).
+4. The folder multilabel-classification also contains the code to train modified DenseNet121 (with an extra hidden units in classification layers) and code to inference on test images(generate conceptID for a test image).
 
 
 Please contact sv2128@nyu.edu/rm5707@nyu.edu for any issues/bugs.
